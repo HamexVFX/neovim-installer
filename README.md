@@ -5,7 +5,7 @@ One-command installer for the **latest version of Neovim** on Linux using the of
 ## 🚀 Quick Install
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/HamexVFX/nvim-installer/main/install-neovim.sh | bash
+curl -fsSL https://raw.githubusercontent.com/HamexVFX/neovim-installer/main/install-neovim.sh | bash
 ```
 
 ## Features
